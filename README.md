@@ -2,12 +2,12 @@
 This is my first time testing repository.
 
 # Introduction
-Hello! My name is McKinleigh Rountree, a rising Junior out of the DMV area. STEM is an innovative field that has my focus at the moment. It's always changing and that's what I love most about it. In my free time I like to volunteer at STEM camps whith a goal of helping underprivellaged kids that look like me grow. 
-Although being new to GitHub I hope to achieve the following:
-- Learn more coding scripts
+Hello! My name is McKinleigh Rountree, a rising Junior out of the DMV area. STEM is an innovative field that has my focus at the moment. It's always changing and that's what I love most about it. In my free time I like to volunteer at STEM camps whith a goal of helping underprivileged kids that look like me grow. 
+Although I'm new to GitHub I hope to achieve the following:
+- Learn more coding languages and scripts
 - Collaborate with others
 ## About Me
-As a student-athlete I always have goals to make sure I stay on the right track since life gets hectic.
+As a student-athlete I always have goals to make sure I stay on the right track, since life gets hectic.
 
 My goals:
 - Rejoing Jr. NSBE and continue learning more about coding
@@ -34,7 +34,7 @@ Interest:
 - AI
 - Biology
 ### Professional Experiences
-- Digital Marketing Inter for nonprofit (The Influential Initiative)
+- Digital Marketing Intern for nonprofit (The Influential Initiative)
 - Intern at AGEMO Technology
 - KKCF Coding Fellowship (The Knowledge House)
 - STEM Camp Volunteer
